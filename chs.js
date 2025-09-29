@@ -11,7 +11,7 @@
 var cnItems = {
     _OTHER_: [],
     //资源：
-    "Iron": "铁",
+    "Iron",
     "Steel": "钢",
     "Titanium": "钛",
     "Silicon": "硅",
